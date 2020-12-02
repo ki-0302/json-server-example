@@ -1,0 +1,57 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Test"
+    }
+  ],
+  "posts": [
+    {
+      "id": 3,
+      "title": "jason-saaerver",
+      "author": "typicode"
+    },
+    {
+      "createdAt": 1606865968421,
+      "id": 4
+    },
+    {
+      "createdAt": 1606866076022,
+      "id": 5
+    },
+    {
+      "createdAt": 1606866088024,
+      "id": 6
+    },
+    {
+      "createdAt": 1606866091237,
+      "id": 7
+    },
+    {
+      "createdAt": 1606866710513,
+      "id": 8
+    },
+    {
+      "createdAt": 1606866722385,
+      "id": 9
+    },
+    {
+      "createdAt": 1606866737708,
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "createdAt": 1606866003359,
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
